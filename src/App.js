@@ -1,12 +1,11 @@
 import Header from "./components/Header";
-import CarouselTest from "./components/CarouselTest";
 import Content22 from "./components/Content22";
 import Content23 from "./components/Content23";
 import Content24 from "./components/Content24";
 
 function App() {
   return (
-    <div className="h-[2532px] flex flex-col justify-center">
+    <div className="mt-10">
       <Header />
       <div className="m-10">
         <Content22 />
